@@ -86,7 +86,3 @@ Interactive coffee menu using **HTML, CSS & JavaScript**.
 
 ---
 
-## 🎖️ Animated Skills Badges
-![Skills](https://github-readme-streak-stats.herokuapp.com/?user=sandip89600&theme=highcontrast)
-
-<!-- Created with ❤️ and GPRM --> -->
