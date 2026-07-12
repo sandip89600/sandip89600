@@ -1,88 +1,27 @@
-# 💫 About Me
-🛠 I’m currently working on my **College Project**
+# 💫 About Me:
+🔭 **I’m currently working on:**<br>Full Stack Web Development projects, AI-powered applications, and workforce management solutions like the Haajari App.<br><br>👯 **I’m looking to collaborate on:**<br>MERN Stack projects, AI integrations, SaaS products, and innovative web applications.<br><br>🤝 **I’m looking for help with:**<br>Scaling applications, AI model integration, cloud deployment, and system architecture.<br><br>🌱 **I’m currently learning:**<br>Advanced React.js, Node.js, System Design, AI integrations, and scalable backend architectures.<br><br>💬 **Ask me about:**<br>React.js, JavaScript, MERN Stack, Full Stack Development, REST APIs, and AI-powered applications.<br><br>⚡ **Fun fact:**<br>I enjoy turning real-world business problems into software solutions and building products that save time and effort.<br>
 
-🧑‍🤝‍🧑 I’m looking to collaborate on **full‑stack projects**
 
-🌱 I’m currently learning **React.js** and **Tailwind CSS**
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sandeeppandit3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sandip896) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/sandeep_pandit896) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeep-pandit896) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sandippandit896) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandippandit896@gmail.com) 
 
-💬 Ask me about **JavaScript • React • UI/UX Design**
-
-⚡ Fun fact: *I drink more coffee while coding than I sleep in a day!*
-
----
-
-## 🌐 Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sandeeppandit3)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sandip896)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/I_msandippp896)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-lalbabu-pandit-ba144a242/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sandippandit896)
-
----
-
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sandip89600&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sandip89600&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandip89600&theme=dark&hide_border=false&layout=compact)
-
----
+# 💻 Tech Stack:
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sandip89600&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sandip89600&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sandip89600&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandip89600&theme=radical&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sandip89600&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandip89600&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sandip89600&icon=3&color=7)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=sandip89600&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💼 Experience
-- **Web Development Intern – YHills Edutech**  
-  *Nov 2024 – Jan 2025*  
-  Worked on responsive UI design, frontend development, and real‑world project tasks.
-
-- **Full Stack Developer (Trainee) – A2Z ITHub**  
-  *2025 – Present*  
-  Learning and building full‑stack projects using MERN Stack.
-
----
-
-## 📄 Resume
-<a href="https://your-resume-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-</a>
-
----
-
-## 🚀 Featured Projects
-### 🔹 **Phoenix Baker's Website**
-Modern bakery website built using **React + Node.js + MongoDB**
-
-### 🔹 **Online Voting System**
-Secure voting portal with authentication & admin dashboard.
-
-### 🔹 **Coffee Menu UI**
-Interactive coffee menu using **HTML, CSS & JavaScript**.
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
